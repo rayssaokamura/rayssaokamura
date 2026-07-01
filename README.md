@@ -3,7 +3,7 @@
 <table width="100%">
   <tr>
     <td colspan="2" valign="middle" align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&titleColor=F7F7F7&center=true&vCenter=true&width=400&height=50&lines=Ol%C3%A1,+mundo!+Rayssa+aqui+👋" alt="Typing Effect" style="vertical-align: middle;"/>
+      <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=600&size=26&titleColor=F7F7F7&center=true&vCenter=true&width=400&height=50&lines=Ol%C3%A1,+mundo!+Rayssa+aqui." alt="Typing Effect" style="vertical-align: middle;"/>
     </td>
   </tr>
   <tr>
